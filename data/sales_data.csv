@@ -1,0 +1,85 @@
+Order_Date,Region,Category,Sales,Profit
+2018-01-01,East,Office Supplies,29022,15607
+2018-02-01,Central,Office Supplies,12055,12765
+2018-03-01,Central,Furniture,20717,4828
+2018-04-01,East,Technology,40699,4917
+2018-05-01,East,Furniture,20150,7234
+2018-06-01,South,Technology,14125,9988
+2018-07-01,Central,Office Supplies,28748,5026
+2018-08-01,West,Furniture,16621,17594
+2018-09-01,South,Office Supplies,27034,6744
+2018-10-01,East,Furniture,17126,12093
+2018-11-01,East,Office Supplies,17122,15977
+2018-12-01,Central,Technology,30030,13231
+2019-01-01,East,Technology,29302,3009
+2019-02-01,West,Technology,31181,3260
+2019-03-01,Central,Furniture,13531,9038
+2019-04-01,East,Technology,35333,12865
+2019-05-01,Central,Furniture,46674,5219
+2019-06-01,East,Technology,47854,10041
+2019-07-01,East,Technology,20152,5060
+2019-08-01,East,Furniture,22267,8287
+2019-09-01,West,Furniture,37289,14905
+2019-10-01,West,Technology,13062,4619
+2019-11-01,Central,Furniture,41926,11512
+2019-12-01,East,Technology,18229,4342
+2020-01-01,East,Furniture,16632,16924
+2020-02-01,West,Office Supplies,15596,13568
+2020-03-01,East,Office Supplies,18168,5832
+2020-04-01,West,Office Supplies,19561,5824
+2020-05-01,East,Office Supplies,20258,4994
+2020-06-01,Central,Office Supplies,28616,14150
+2020-07-01,East,Technology,38734,17231
+2020-08-01,East,Office Supplies,18371,13230
+2020-09-01,South,Office Supplies,38069,6490
+2020-10-01,West,Office Supplies,26369,14869
+2020-11-01,East,Office Supplies,24910,12310
+2020-12-01,East,Furniture,19943,10984
+2021-01-01,South,Technology,24199,4604
+2021-02-01,South,Office Supplies,27728,17653
+2021-03-01,West,Office Supplies,35275,15219
+2021-04-01,South,Office Supplies,18738,3235
+2021-05-01,Central,Technology,27913,13161
+2021-06-01,South,Furniture,47240,15621
+2021-07-01,Central,Technology,31123,4908
+2021-08-01,West,Furniture,46529,11567
+2021-09-01,West,Office Supplies,22167,6530
+2021-10-01,West,Office Supplies,22554,8256
+2021-11-01,West,Technology,29260,5635
+2021-12-01,West,Technology,15812,11162
+2022-01-01,Central,Furniture,40024,12762
+2022-02-01,Central,Furniture,39285,5560
+2022-03-01,West,Technology,38900,8415
+2022-04-01,South,Furniture,13605,6391
+2022-05-01,East,Technology,17622,14157
+2022-06-01,West,Furniture,18767,14835
+2022-07-01,South,Technology,39139,8951
+2022-08-01,East,Technology,23613,8468
+2022-09-01,West,Technology,22589,11007
+2022-10-01,West,Furniture,25918,15042
+2022-11-01,Central,Furniture,32119,12064
+2022-12-01,East,Furniture,39446,12444
+2023-01-01,East,Technology,25046,9413
+2023-02-01,South,Furniture,36818,17139
+2023-03-01,Central,Furniture,47358,9941
+2023-04-01,Central,Technology,16324,12506
+2023-05-01,Central,Office Supplies,22787,7820
+2023-06-01,Central,Technology,21111,17340
+2023-07-01,East,Furniture,28389,5898
+2023-08-01,East,Technology,26043,10546
+2023-09-01,West,Office Supplies,40746,3077
+2023-10-01,West,Technology,34350,10577
+2023-11-01,Central,Furniture,12117,13813
+2023-12-01,Central,Office Supplies,30935,7227
+2024-01-01,Central,Furniture,25234,3600
+2024-02-01,West,Office Supplies,12846,17060
+2024-03-01,South,Office Supplies,22954,4065
+2024-04-01,South,Technology,25703,5136
+2024-05-01,West,Technology,34700,13641
+2024-06-01,West,Furniture,44043,13535
+2024-07-01,West,Technology,18469,13055
+2024-08-01,West,Technology,42105,12510
+2024-09-01,West,Office Supplies,38386,15903
+2024-10-01,West,Technology,48976,14789
+2024-11-01,Central,Office Supplies,14048,9943
+2024-12-01,Central,Office Supplies,24941,14954
